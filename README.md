@@ -13,10 +13,10 @@ Search different countries.
 
 # What did you learn from this project?
 
-Learned to implement Firebase authentication
-Json decoding
-Complex storyboard implementations
-UI designs
+Learned to implement Firebase authentication.   
+Json decoding.   
+Complex storyboard implementations.   
+UI designs.   
 
 # API
 https://api.covid19api.com/summary
