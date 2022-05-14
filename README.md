@@ -4,12 +4,12 @@ Tracking covid 19 cases in each country with search bar implementation
 
 # Features
 
-Track the no of covid cases in each country
-API call
-Navigation Controller
-Firebase Auth
-JSON decoding
-Search different countries
+Track the no of covid cases in each country.   
+API call.   
+Navigation Controller.   
+Firebase Auth.   
+JSON decoding.   
+Search different countries.   
 
 # What did you learn from this project?
 
